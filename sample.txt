@@ -1,0 +1,5 @@
+Name|Phone
+John; 12123
+Bob; 34-43
+Moscow 1999
+Ryazan 2000
